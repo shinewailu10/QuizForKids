@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/animalQz"
+        android:title="Retry?"/>
+
+    <item
+        android:id="@+id/cartoonQz"
+        android:title="Cartoon Quiz"/>
+
+    <item
+        android:id="@+id/leave"
+        android:title="Leave page"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Log Off"/>
+
+
+</menu>
